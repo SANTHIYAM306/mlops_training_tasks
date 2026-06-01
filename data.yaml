@@ -1,0 +1,8 @@
+# The path to your new dataset folder
+path: dataset
+train: images/train
+val: images/val
+
+# Number of classes and their exact names
+nc: 4
+names: ['face', 'contact_overlay', 'hand', 'fraud']
